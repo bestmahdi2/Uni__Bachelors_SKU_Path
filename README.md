@@ -145,6 +145,99 @@ todo
      <a href="https://github.com/bestmahdi2/Uni__JavaChessBoardGame"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="25" alt="GitHub Repository Link" title="Click for more information"></a>
 
 
+# ترم 5️⃣
+
+## 📔 درس گرافیک کامپیوتری
+
+### 📚 تدریس
+* **مباحث تکمیلی و پیشرفته گرافیک کامپیوتری**
+
+### ⌨️ پروژه‌ها
+* **پروژه طراحی آدمک راه‌رونده با DirectX 9**
+   * **لینک‌ها:** 
+     <a href="https://github.com/bestmahdi2/Uni__DirectXHumanWalkerDetailedEnvironmentProject"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="25" alt="GitHub Repository Link" title="Click for more information"></a>
+
+## 📓 درس آزمایشگاه مدارهای منطقی و معماری کامپیوتر
+
+### 📚 تدریس
+* **مباحث عملی مدارهای منطقی**
+* **مباحث عملی معماری کامپیوتر**
+* **آموزش نرم‌افزار Proteus**
+
+### ⌨️ پروژه‌ها
+* **تمامی پروژه‌ها و تکالیف**
+   * **لینک‌ها:** 
+     <a href="https://github.com/bestmahdi2/Uni__LogicCircuitsComputerArchitectureLab"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="25" alt="GitHub Repository Link" title="Click for more information"></a>
+
+## 👥 انجمن کامپیوتر
+
+### ⌨️ پروژه‌ها
+* **باز طراحی بخش‌های نشریه انجمن**
+* **جمع‌آوری مطالب و نوشتن چندین فصل از نشریه**
+
+## 💎 پروژه‌های خارج از دانشگاه
+* **پروژه با کتابخانه‌های گرافیکی پرینستون**
+   * **لینک‌ها:** 
+     <a href="https://github.com/bestmahdi2/Uni__PrincetonPythonLibrariesGUIProblems"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="25" alt="GitHub Repository Link" title="Click for more information"></a>
+* **پروژه تقریب تابع با برنامه‌نویسی ژنتیک**
+   * **لینک‌ها:** 
+     <a href="https://github.com/bestmahdi2/Uni__GeneticProgrammingFunctionApproximation"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="25" alt="GitHub Repository Link" title="Click for more information"></a>
+* **پروژه پیاده‌سازی درخت تصمیم برای تشخیص دیابت**
+   * **لینک‌ها:** 
+     <a href="https://github.com/bestmahdi2/Uni__DecisionTreesinPythonPredictingDiabetes"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="25" alt="GitHub Repository Link" title="Click for more information"></a>
+* **پروژه دسته‌بندی باینری ماشین‌های برداری پشتیبانی**
+   * **لینک‌ها:** 
+     <a href="https://github.com/bestmahdi2/Uni__PythonSupportVectorMachinesBinaryClassification"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="25" alt="GitHub Repository Link" title="Click for more information"></a>
+* **پروژه ماشین حساب پیشرفته با استفاده از ماشین حالت محدود و ماشین پشته‌ای**
+   * **لینک‌ها:** 
+     <a href="https://github.com/bestmahdi2/Uni__AdvancedCalculatorFSM-PDA"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="25" alt="GitHub Repository Link" title="Click for more information"></a>
+* **پروژه طراحی کامپایلر ANTLR4**
+   * **لینک‌ها:** 
+     <a href="https://github.com/bestmahdi2/Uni__CompilerDesignANTLR4"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="25" alt="GitHub Repository Link" title="Click for more information"></a>
+
+
+# ترم 6️⃣
+
+## 📙 درس طراحی الگوریتم‌ها
+
+### 📚 تدریس
+* **مباحث تکمیلی الگوریتم‌ها**
+
+### ⌨️ پروژه‌ها
+* **پروژه‌های تدریس‌شده در این درس با زبان جاوا و به صورت گرافیکی [۵ پروژه]**
+   * **لینک‌ها:** 
+     <a href="https://github.com/bestmahdi2/Uni__JavaAlgorithmDesignProblemSolvers"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="25" alt="GitHub Repository Link" title="Click for more information"></a>
+
+## 📘 درس شبکه‌های کامپیوتری
+
+### 📚 تدریس
+* **مباحث شبکه و اینترنت**
+
+### ⌨️ پروژه‌ها
+* **پروژه برنامه پیام‌رسان همتا به همتا**
+   * **لینک‌ها:** 
+     <a href="https://github.com/bestmahdi2/Uni__PeerToPeerMessagingApp"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="25" alt="GitHub Repository Link" title="Click for more information"></a>
+
+
+## 📘 درس ریزپردازنده و زبان اسمبلی
+
+### 📚 تدریس
+* **مبانی ریزپردازنده**
+* **آموزش کلی STM32 و HAL**
+* **آموزش پروژه‌ها با STM32F103C8T6**
+* **آموزش نرم‌افزار STM32Cube**
+* **آموزش نرم‌افزار Keil**
+
+### ⌨️ پروژه‌ها
+* **پروژه‌های میکروپروسسور STM32**
+
+
+## 📗 درس کارآموزی
+
+### ⌨️ پروژه‌ها
+* **پروژه ترجمه و نوشتن کتاب Introduction To 3D Game Programming With DirectX 12 با LaTex**
+   * **لینک‌ها:** 
+     <a href="https://github.com/bestmahdi2/IntroductionTo3DGameProgrammingWithDirectX12"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="25" alt="GitHub Repository Link" title="Click for more information"></a>
 
 
 
