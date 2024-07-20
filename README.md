@@ -14,15 +14,19 @@ todo
 ---
 
 
+
 #  ترم 1️⃣
 
 ## 📙 درس کارگاه کامپیوتر
 
 ### 📚 تدریس
 * **مباحث HTML و CSS**
+* **مباحث ICDL**
 
 ### ⌨️ پروژه‌ها
+* **طراحی انواع داکیومنت**
 * **طراحی یک صفحه‌ی ساده HTML و دیزاین با CSS**
+
 
 ## 💎 پروژه‌های خارج از دانشگاه
 * **مقایسه فالوور و فالوینگ‌های اکانت اینستاگرام و پیدا کردن تکراری‌های آن**
@@ -38,6 +42,8 @@ todo
    * **لینک‌ها:** 
      <a href="https://github.com/bestmahdi2/PassWordListCreator"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="25" alt="GitHub Repository Link" title="Click for more information"></a>
 
+
+
 # ترم 2️⃣
 
 ## 📘 درس مبانی کامپیوتر و برنامه‌سازی
@@ -50,6 +56,7 @@ todo
 * **پروژه سیستم مدیریت مخاطبین (CMS) [۱۱ پروژه]**
    * **لینک‌ها:** 
      <a href="https://github.com/bestmahdi2/Uni__ContactManagementSystem"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="25" alt="GitHub Repository Link" title="Click for more information"></a>
+
 
 ## 💎 پروژه‌های خارج از دانشگاه
 * **سوالات و پروژه‌های Fortran**
@@ -67,9 +74,10 @@ todo
 * **پروژه اپلیکیشن موبایل با Kiwi**
 
 
+
 # ترم 3️⃣
 
-## 📗 درس برنامه‌نویسی پیشرفته ۱
+## 📗 درس برنامه‌سازی پیشرفته ۱
 
 ### 📚 تدریس
 * **مسوالات الگوریتمی پیشرفته‌تر**
@@ -80,6 +88,7 @@ todo
 * **پروژه سیستم مدیریت ویدیو کلوپ**
    * **لینک‌ها:** 
      <a href="https://github.com/bestmahdi2/Uni__VideoClubManagementJava"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="25" alt="GitHub Repository Link" title="Click for more information"></a>
+
 
 ## 💎 پروژه‌های خارج از دانشگاه
 * **پروژه وبسایت کوئرا: تخصیص سفارش**
@@ -123,6 +132,7 @@ todo
    * **لینک‌ها:** 
      <a href="https://github.com/bestmahdi2/Uni__DirectXHumanWalkerDetailedEnvironmentProject"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="25" alt="GitHub Repository Link" title="Click for more information"></a>
 
+
 ## 📒 درس ساختمان‌های داده
 
 ### 📚 تدریس
@@ -132,6 +142,7 @@ todo
 * **پروژه دفترچه تلفن با پابتون**
    * **لینک‌ها:** 
      <a href="https://github.com/bestmahdi2/Uni__PhoneBookAppPython"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="25" alt="GitHub Repository Link" title="Click for more information"></a>
+
 
 ## 💎 پروژه‌های خارج از دانشگاه
 * **پروژه گرافیکی مدیریت کتابخانه با پایتون و ‌PyQt5**
@@ -143,6 +154,7 @@ todo
 * **پروژه بازی شطرنج با جاوا**
    * **لینک‌ها:** 
      <a href="https://github.com/bestmahdi2/Uni__JavaChessBoardGame"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="25" alt="GitHub Repository Link" title="Click for more information"></a>
+
 
 
 # ترم 5️⃣
@@ -157,6 +169,7 @@ todo
    * **لینک‌ها:** 
      <a href="https://github.com/bestmahdi2/Uni__DirectXHumanWalkerDetailedEnvironmentProject"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="25" alt="GitHub Repository Link" title="Click for more information"></a>
 
+
 ## 🧪 درس آزمایشگاه مدارهای منطقی و معماری کامپیوتر
 
 ### 📚 تدریس
@@ -169,11 +182,13 @@ todo
    * **لینک‌ها:** 
      <a href="https://github.com/bestmahdi2/Uni__LogicCircuitsComputerArchitectureLab"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="25" alt="GitHub Repository Link" title="Click for more information"></a>
 
+
 ## 👥 انجمن کامپیوتر
 
 ### ⌨️ پروژه‌ها
-* **باز طراحی بخش‌های نشریه انجمن**
+* **بازطراحی بخش‌های نشریه انجمن**
 * **جمع‌آوری مطالب و نوشتن چندین فصل از نشریه**
+
 
 ## 💎 پروژه‌های خارج از دانشگاه
 * **پروژه با کتابخانه‌های گرافیکی پرینستون**
@@ -196,6 +211,7 @@ todo
      <a href="https://github.com/bestmahdi2/Uni__CompilerDesignANTLR4"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="25" alt="GitHub Repository Link" title="Click for more information"></a>
 
 
+
 # ترم 6️⃣
 
 ## 📙 درس طراحی الگوریتم‌ها
@@ -207,6 +223,7 @@ todo
 * **پروژه‌های تدریس‌شده در این درس با زبان جاوا و به صورت گرافیکی [۵ پروژه]**
    * **لینک‌ها:** 
      <a href="https://github.com/bestmahdi2/Uni__JavaAlgorithmDesignProblemSolvers"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="25" alt="GitHub Repository Link" title="Click for more information"></a>
+
 
 ## 📘 درس شبکه‌های کامپیوتری
 
@@ -229,7 +246,9 @@ todo
 * **آموزش نرم‌افزار Keil**
 
 ### ⌨️ پروژه‌ها
-* **پروژه‌های میکروپروسسور STM32**
+* **پروژه‌های میکروپروسسور STM32F103C8T6**
+   * **لینک‌ها:** 
+     <a href="https://github.com/bestmahdi2/Uni__STM32MicroprocessorProjects"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="25" alt="GitHub Repository Link" title="Click for more information"></a>
 
 
 ## 📕 درس کارآموزی
@@ -238,6 +257,7 @@ todo
 * **پروژه ترجمه و نوشتن کتاب Introduction To 3D Game Programming With DirectX 12 با LaTex**
    * **لینک‌ها:** 
      <a href="https://github.com/bestmahdi2/IntroductionTo3DGameProgrammingWithDirectX12"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="25" alt="GitHub Repository Link" title="Click for more information"></a>
+
 
 ## 💎 پروژه‌های خارج از دانشگاه
 * **پروژه دیتابیس کتابخانه با SQL**
@@ -263,6 +283,7 @@ todo
      <a href="https://github.com/bestmahdi2/TB__Temers"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="25" alt="GitHub Repository Link" title="Click for more information"></a>
 
 
+
 # ترم 7️⃣
 
 ## 🧪 درس آزمایشگاه ریزپردازنده
@@ -278,9 +299,6 @@ todo
 * **پروژه طراحی رزومه با LaTex**
    * **لینک‌ها:** 
      <a href="https://github.com/bestmahdi2/LaTeX-Resume-Template"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="25" alt="GitHub Repository Link" title="Click for more information"></a>
-* **پروژه‌های میکروپروسسور STM32**
-   * **لینک‌ها:** 
-     <a href="https://github.com/bestmahdi2/Uni__STM32MicroprocessorProjects"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="25" alt="GitHub Repository Link" title="Click for more information"></a>
 * **پروژه طراحی برنامه‌ی منو با STM32**
    * **لینک‌ها:** 
      <a href="https://github.com/bestmahdi2/Uni__STM32MenuDesignProgramLCD2x16"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="25" alt="GitHub Repository Link" title="Click for more information"></a>
@@ -303,6 +321,15 @@ todo
    * **لینک‌ها:** 
      <a href="https://github.com/bestmahdi2/Uni__TicTacToeMinimaxAlgorithm"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="25" alt="GitHub Repository Link" title="Click for more information"></a>
 
+
+## 🧪 درس آزمایشگاه شبکه‌های کامپیوتری
+
+### 📚 تدریس
+* **آموزش نرم‌افزار Cisco Packet Tracer**
+
+### ⌨️ پروژه‌ها
+* **پروژه طراحی خانه‌ی هوشمند با نرم‌افزار Cisco Packet Tracer**
+* 
 
 ## 📔 درس مهندسی اینترنت
 
@@ -343,7 +370,6 @@ todo
 
 
 
-
 # ترم 8️⃣
 
 ## 📓 درس سینگال‌ها و سیتم‌ها
@@ -356,10 +382,11 @@ todo
    * **لینک‌ها:** 
      <a href="https://github.com/bestmahdi2/Uni__DownSamplingSignalSystemProject"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="25" alt="GitHub Repository Link" title="Click for more information"></a>
 
+
 ## 📓 درس مبانی بازیابی اطلاعات
 
 ### 📚 تدریس
-* **مباحث سیگنال‌ها و سیستم‌ها**
+* **مباحث بازیابی اطلاعات**
 
 ### ⌨️ پروژه‌ها
 * **پروژه موتور جستجو بازیابی اطلاعات**
@@ -375,7 +402,6 @@ todo
      <a href="https://github.com/bestmahdi2/WS__ShonLine_online_shop"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="25" alt="GitHub Repository Link" title="Click for more information"></a>
 
 
-
 ## 💎 پروژه‌های خارج از دانشگاه
 * **پروژه سیستم مدیریت املاک با Qt**
    * **لینک‌ها:** 
@@ -384,14 +410,6 @@ todo
    * **لینک‌ها:** 
      <a href="https://github.com/bestmahdi2/TB__Core"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="25" alt="GitHub Repository Link" title="Click for more information"></a>
 * **پروژه تقسیم درآمدهای کانال‌های تلگرام**
-   * **لینک‌ها:** 
+   * **لینک‌ها:**
      <a href="https://github.com/bestmahdi2/Yotta_Moghasem"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="25" alt="GitHub Repository Link" title="Click for more information"></a>
-
-
-
-
-
-
-     
-     
 </div>
