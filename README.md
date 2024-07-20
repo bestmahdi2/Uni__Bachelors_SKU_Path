@@ -13,16 +13,22 @@
 - [ترم‌ها](#ترم-1️⃣)
   - [ترم 1️⃣](#ترم-1️⃣)
     - [کارگاه کامپیوتر](#درس-کارگاه-کامپیوتر)
-    - [پروژه های خارج از دانشگاه](#پروژه-های-خارج-از-دانشگاه-1️⃣)
+    - [پروژه‌های خارج از دانشگاه](#پروژههای-خارج-از-دانشگاه-1️⃣)
   - [ترم 2️⃣](#ترم-2️⃣)
     - [مبانی کامپیوتر و برنامه‌سازی](#درس-مبانی-کامپیوتر-و-برنامهسازی)
-    - [پروژه های خارج از دانشگاه](#پروژه-های-خارج-از-دانشگاه-2️⃣)
+    - [پروژه‌های خارج از دانشگاه](#پروژههای-خارج-از-دانشگاه-2️⃣)
   - [ترم 3️⃣](#ترم-3️⃣)
+    - [پروژه‌های خارج از دانشگاه](#پروژههای-خارج-از-دانشگاه-3️⃣)
   - [ترم 4️⃣](#ترم-4️⃣)
+    - [پروژه‌های خارج از دانشگاه](#پروژههای-خارج-از-دانشگاه-4️⃣)
   - [ترم 5️⃣](#ترم-5️⃣)
+    - [پروژه‌های خارج از دانشگاه](#پروژههای-خارج-از-دانشگاه-5️⃣)
   - [ترم 6️⃣](#ترم-6️⃣)
+    - [پروژه‌های خارج از دانشگاه](#پروژههای-خارج-از-دانشگاه-6️⃣)
   - [ترم 7️⃣](#ترم-7️⃣)
+    - [پروژه‌های خارج از دانشگاه](#پروژههای-خارج-از-دانشگاه-7️⃣)
   - [ترم 8️⃣](#ترم-8️⃣)
+    - [پروژه‌های خارج از دانشگاه](#پروژههای-خارج-از-دانشگاه-8️⃣)
     
 ## اطلاعات کلی
 
@@ -48,7 +54,7 @@
 * **ریپوزیتوری بعضی از پروژه‌ها ممکن است از حالت عمومی به حالت خصوصی درآمده باشند.**
 * **فایل‌های بعضی از پروژه‌ها روی گیت‌هاب قرار ندارند.**
 * **تنها دروسی از دوره کارشناسی که دارای پروژه بودند در این ریپوزیتوری قرار دارند.**
-* **پروژه‌های خارج از دوره کارشناسی و به صورت فریلنسری با نام "پروژه های خارج از دانشگاه" در هر ترم قرار دارند.**
+* **پروژه‌های خارج از دوره کارشناسی و به صورت فریلنسری با نام "پروژه‌های خارج از دانشگاه" در هر ترم قرار دارند.**
 
 ---
 
@@ -65,7 +71,7 @@
 * **طراحی یک صفحه‌ی ساده HTML و دیزاین با CSS**
 
 
-## پروژه های خارج از دانشگاه 1️⃣
+## پروژه‌های خارج از دانشگاه 1️⃣
 * **مقایسه فالوور و فالوینگ‌های اکانت اینستاگرام و پیدا کردن تکراری‌های آن**
    * **لینک‌ها:** 
      <a href="https://github.com/bestmahdi2/Duplicated_Followers_Followings"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="25" alt="GitHub Repository Link" title="Click for more information"></a>
@@ -95,7 +101,7 @@
      <a href="https://github.com/bestmahdi2/Uni__ContactManagementSystem"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="25" alt="GitHub Repository Link" title="Click for more information"></a>
 
 
-## پروژه های خارج از دانشگاه 2️⃣
+## پروژه‌های خارج از دانشگاه 2️⃣
 * **سوالات و پروژه‌های Fortran**
    * **لینک‌ها:** 
      <a href="https://github.com/bestmahdi2/Uni__FortranProject"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="25" alt="GitHub Repository Link" title="Click for more information"></a>
@@ -127,7 +133,7 @@
      <a href="https://github.com/bestmahdi2/Uni__VideoClubManagementJava"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="25" alt="GitHub Repository Link" title="Click for more information"></a>
 
 
-## 💎 پروژه های خارج از دانشگاه
+## 💎 پروژه‌های خارج از دانشگاه
 * **پروژه وبسایت کوئرا: تخصیص سفارش**
    * **لینک‌ها:** 
      <a href="https://github.com/bestmahdi2/Uni__TakhsisSefareshProject"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="25" alt="GitHub Repository Link" title="Click for more information"></a>
@@ -181,7 +187,7 @@
      <a href="https://github.com/bestmahdi2/Uni__PhoneBookAppPython"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="25" alt="GitHub Repository Link" title="Click for more information"></a>
 
 
-## 💎 پروژه های خارج از دانشگاه
+## 💎 پروژه‌های خارج از دانشگاه
 * **پروژه گرافیکی مدیریت کتابخانه با پایتون و ‌PyQt5**
    * **لینک‌ها:** 
      <a href="https://github.com/bestmahdi2/Uni__LibraryManagementPythonGUI"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="25" alt="GitHub Repository Link" title="Click for more information"></a>
@@ -227,7 +233,7 @@
 * **جمع‌آوری مطالب و نوشتن چندین فصل از نشریه**
 
 
-## 💎 پروژه های خارج از دانشگاه
+## 💎 پروژه‌های خارج از دانشگاه
 * **پروژه با کتابخانه‌های گرافیکی پرینستون**
    * **لینک‌ها:** 
      <a href="https://github.com/bestmahdi2/Uni__PrincetonPythonLibrariesGUIProblems"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="25" alt="GitHub Repository Link" title="Click for more information"></a>
@@ -296,7 +302,7 @@
      <a href="https://github.com/bestmahdi2/IntroductionTo3DGameProgrammingWithDirectX12"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="25" alt="GitHub Repository Link" title="Click for more information"></a>
 
 
-## 💎 پروژه های خارج از دانشگاه
+## 💎 پروژه‌های خارج از دانشگاه
 * **پروژه دیتابیس کتابخانه با SQL**
    * **لینک‌ها:** 
      <a href="https://github.com/bestmahdi2/Uni__LibraryDataBaseSQL"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="25" alt="GitHub Repository Link" title="Click for more information"></a>
@@ -393,7 +399,7 @@
      <a href="https://github.com/bestmahdi2/Uni__DataMinningStackOverFlowProject"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="25" alt="GitHub Repository Link" title="Click for more information"></a>
 
 
-## 💎 پروژه های خارج از دانشگاه
+## 💎 پروژه‌های خارج از دانشگاه
 * **پروژه مهندسی اینترنت برنامه‌نویسی سوکت**
    * **لینک‌ها:** 
      <a href="https://github.com/bestmahdi2/Uni__SocketProgrammingInternetEngineering"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="25" alt="GitHub Repository Link" title="Click for more information"></a>
@@ -439,7 +445,7 @@
      <a href="https://github.com/bestmahdi2/WS__ShonLine_online_shop"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="25" alt="GitHub Repository Link" title="Click for more information"></a>
 
 
-## 💎 پروژه های خارج از دانشگاه
+## 💎 پروژه‌های خارج از دانشگاه
 * **پروژه سیستم مدیریت املاک با Qt**
    * **لینک‌ها:** 
      <a href="https://github.com/bestmahdi2/Uni__RealEstateManagementSystemQT"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="25" alt="GitHub Repository Link" title="Click for more information"></a>
