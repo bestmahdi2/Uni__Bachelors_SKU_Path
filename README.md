@@ -14,10 +14,13 @@
 [![GitHub](https://img.shields.io/badge/Lines%20Of%20Code-+400000-blue)]()
 
 ## لیست کارها
-- [x] ![](https://geps.dev/progress/100) **دانشگاه**
-- [x] ![](https://geps.dev/progress/100) **آپلود پروژه‌ها**
+- [x] ![](https://geps.dev/progress/100) **دوره کارشناسی دانشگاه**
+- [x] ![](https://geps.dev/progress/100) **بررسی و جمع‌آوری پروژه‌ها**
+- [x] ![](https://geps.dev/progress/100) **دسته‌بندی و کنترل ورژن پروژه‌ها**
+- [x] ![](https://geps.dev/progress/100) **آپلود پروژه‌ها روی گیت‌هاب**
 - [ ] ![](https://geps.dev/progress/50) **داکیومنت‌نویسی پروژه‌ها**
-      
+- [ ] ![](https://geps.dev/progress/20) **بررسی و بهبود پروژه‌ها**
+
 ---
 
 #  ترم 1️⃣
