@@ -2,18 +2,23 @@
 
 <div dir="rtl">
 
-+1000000 lines of code
-+1000 hours 
-+200 projects
-4 years
+## اطلاعات کلی
 
-todo
-- [x] something 
-- [ ] something else
+**تعداد پروژه‌ها:**
+[![GitHub](https://img.shields.io/badge/Projects-+200-blue)]()
 
+**تعداد ساعت:**
+[![GitHub](https://img.shields.io/badge/Hours-+10000-blue)]()
+
+**تعداد خط کد:**
+[![GitHub](https://img.shields.io/badge/Lines%20Of%20Code-+400000-blue)]()
+
+## لیست کارها
+- [x] ![](https://geps.dev/progress/100) **دانشگاه**
+- [x] ![](https://geps.dev/progress/100) **آپلود پروژه‌ها**
+- [ ] ![](https://geps.dev/progress/50) **داکیومنت‌نویسی پروژه‌ها**
+      
 ---
-
-
 
 #  ترم 1️⃣
 
