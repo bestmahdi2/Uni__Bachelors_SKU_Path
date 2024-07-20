@@ -106,11 +106,43 @@ todo
 
 
 
+# ترم 4️⃣
 
+## 📕 درس برنامه‌نویسی پیشرفته ۲
 
+### 📚 تدریس
+* **مسوالات الگوریتمی پیشرفته‌تر**
+* **زبان ++C**
+* **مبانی گرافیک کامپیوتری**
 
+### ⌨️ پروژه‌ها
+* **پروژه دفترچه تلفن با ++C**
+   * **لینک‌ها:** 
+     <a href="https://github.com/bestmahdi2/Uni__PhoneBookAppCPP"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="25" alt="GitHub Repository Link" title="Click for more information"></a>
+* **پروژه طراحی آدمک راه‌رونده با DirectX 9 (بخش طراحی آدمک و راه‌رفتن)**
+   * **لینک‌ها:** 
+     <a href="https://github.com/bestmahdi2/Uni__DirectXHumanWalkerDetailedEnvironmentProject"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="25" alt="GitHub Repository Link" title="Click for more information"></a>
 
+## 📒 درس ساختمان‌های داده
 
+### 📚 تدریس
+* **انواع ساختمان‌های داده و کاربردهای آن‌ها**
+
+### ⌨️ پروژه‌ها
+* **پروژه دفترچه تلفن با پابتون**
+   * **لینک‌ها:** 
+     <a href="https://github.com/bestmahdi2/Uni__PhoneBookAppPython"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="25" alt="GitHub Repository Link" title="Click for more information"></a>
+
+## 💎 پروژه‌های خارج از دانشگاه
+* **پروژه گرافیکی مدیریت کتابخانه با پایتون و ‌PyQt5**
+   * **لینک‌ها:** 
+     <a href="https://github.com/bestmahdi2/Uni__LibraryManagementPythonGUI"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="25" alt="GitHub Repository Link" title="Click for more information"></a>
+* **پروژه سیستم رزرو غذا و سیستم مشاور املاک با جاوا**
+   * **لینک‌ها:** 
+     <a href="https://github.com/bestmahdi2/Uni__PythonFoodReservationSys-RealStateSys"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="25" alt="GitHub Repository Link" title="Click for more information"></a>
+* **پروژه بازی شطرنج با جاوا**
+   * **لینک‌ها:** 
+     <a href="https://github.com/bestmahdi2/Uni__JavaChessBoardGame"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="25" alt="GitHub Repository Link" title="Click for more information"></a>
 
 
 
