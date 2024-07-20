@@ -157,7 +157,7 @@ todo
    * **لینک‌ها:** 
      <a href="https://github.com/bestmahdi2/Uni__DirectXHumanWalkerDetailedEnvironmentProject"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="25" alt="GitHub Repository Link" title="Click for more information"></a>
 
-## 📓 درس آزمایشگاه مدارهای منطقی و معماری کامپیوتر
+## 🧪 درس آزمایشگاه مدارهای منطقی و معماری کامپیوتر
 
 ### 📚 تدریس
 * **مباحث عملی مدارهای منطقی**
@@ -219,26 +219,127 @@ todo
      <a href="https://github.com/bestmahdi2/Uni__PeerToPeerMessagingApp"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="25" alt="GitHub Repository Link" title="Click for more information"></a>
 
 
-## 📘 درس ریزپردازنده و زبان اسمبلی
+## 📗 درس ریزپردازنده و زبان اسمبلی
 
 ### 📚 تدریس
 * **مبانی ریزپردازنده**
 * **آموزش کلی STM32 و HAL**
 * **آموزش پروژه‌ها با STM32F103C8T6**
-* **آموزش نرم‌افزار STM32Cube**
+* **آموزش نرم‌افزار STM32CubeMx**
 * **آموزش نرم‌افزار Keil**
 
 ### ⌨️ پروژه‌ها
 * **پروژه‌های میکروپروسسور STM32**
 
 
-## 📗 درس کارآموزی
+## 📕 درس کارآموزی
 
 ### ⌨️ پروژه‌ها
 * **پروژه ترجمه و نوشتن کتاب Introduction To 3D Game Programming With DirectX 12 با LaTex**
    * **لینک‌ها:** 
      <a href="https://github.com/bestmahdi2/IntroductionTo3DGameProgrammingWithDirectX12"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="25" alt="GitHub Repository Link" title="Click for more information"></a>
 
+## 💎 پروژه‌های خارج از دانشگاه
+* **پروژه دیتابیس کتابخانه با SQL**
+   * **لینک‌ها:** 
+     <a href="https://github.com/bestmahdi2/Uni__LibraryDataBaseSQL"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="25" alt="GitHub Repository Link" title="Click for more information"></a>
+* **پروژه سیستم آنتی‌ویروس بر اساس طولانی‌ترین تطبیق زیر رشته‌های رایج**
+   * **لینک‌ها:** 
+     <a href="https://github.com/bestmahdi2/Uni__AntivirusSystemLongestCommonSubstringMatching"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="25" alt="GitHub Repository Link" title="Click for more information"></a>
+* **پروژه یک مخزن برای حل سوال های سایت کوئرا**
+   * **لینک‌ها:** 
+     <a href="https://github.com/bestmahdi2/QueraSolutions"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="25" alt="GitHub Repository Link" title="Click for more information"></a>
+* **پروژه ربات تلگرام: پیدا کردن پروژه‌های ایجاد شده در گروه و کانال‌های تلگرام**
+   * **لینک‌ها:** 
+     <a href="https://github.com/bestmahdi2/TB__JobFinder"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="25" alt="GitHub Repository Link" title="Click for more information"></a>
+* **پروژه ربات تلگرام: شبیه‌سازی دُنگ در اپلیکیشن بلوبانک**
+   * **لینک‌ها:** 
+     <a href="https://github.com/bestmahdi2/TB__BB2H"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="25" alt="GitHub Repository Link" title="Click for more information"></a>
+* **پروژه ربات تلگرام: پیدا کردن پروکسی‌های تازه در کانال‌های تلگرام**
+   * **لینک‌ها:** 
+     <a href="https://github.com/bestmahdi2/TB__ProxyFinder"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="25" alt="GitHub Repository Link" title="Click for more information"></a>
+* **پروژه ربات تلگرام: یادآوری تاریخ‌ها**
+   * **لینک‌ها:** 
+     <a href="https://github.com/bestmahdi2/TB__Temers"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="25" alt="GitHub Repository Link" title="Click for more information"></a>
+
+
+# ترم 7️⃣
+
+## 🧪 درس آزمایشگاه ریزپردازنده
+
+### 📚 تدریس
+* **مبانی عملی ریزپردازنده**
+* **آموزش عملی STM32 و HAL با برد آموزشی**
+* **آموزش پروژه‌ها با STM32F407VG**
+* **آموزش نرم‌افزار STM32CubeIDE**
+* **آموزش نرم‌افزار Hercules**
+
+### ⌨️ پروژه‌ها
+* **پروژه طراحی رزومه با LaTex**
+   * **لینک‌ها:** 
+     <a href="https://github.com/bestmahdi2/LaTeX-Resume-Template"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="25" alt="GitHub Repository Link" title="Click for more information"></a>
+* **پروژه‌های میکروپروسسور STM32**
+   * **لینک‌ها:** 
+     <a href="https://github.com/bestmahdi2/Uni__STM32MicroprocessorProjects"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="25" alt="GitHub Repository Link" title="Click for more information"></a>
+* **پروژه طراحی برنامه‌ی منو با STM32**
+   * **لینک‌ها:** 
+     <a href="https://github.com/bestmahdi2/Uni__STM32MenuDesignProgramLCD2x16"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="25" alt="GitHub Repository Link" title="Click for more information"></a>
+* **پروژه نمایش RGB با انتخاب رنگ در LCD 2x16**
+* **پروژه دریافت رمز ورود و نمایش تاریخ شمسی در LCD 2x16**
+* **پروژه کنترل نور LED با پبتانسیومتر و نمایش مقدار آن روی LCD 2x16**
+* **پروژه نمایش رنگ‌های متخلف RGB و فرستادن تاریخ و نام رنگ**
+* **پروژه دریافت نام-نام‌خانوادگی و جدا کردن آن‌ها و چشمک زدن LED**
+* **پروژه فرستادن مقدار دما و رطوبت و نمایش آن روی LCD 2x16**
+* **پروژه دریافت نام رنگ و نمایش آن روی RGB**
+
+
+## 📘 درس هوش مصنوعی
+
+### 📚 تدریس
+* **مباحث هوش مصنوعی و الگوریتم‌ها**
+
+### ⌨️ پروژه‌ها
+* **پروژه بازی دوز با الگوریتم مین ماکس**
+   * **لینک‌ها:** 
+     <a href="https://github.com/bestmahdi2/Uni__TicTacToeMinimaxAlgorithm"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="25" alt="GitHub Repository Link" title="Click for more information"></a>
+
+
+## 📘 درس مهندسی اینترنت
+
+### 📚 تدریس
+* **مباحث کلی اینترنت**
+* **آموزش زبان PHP**
+* **آموزش Wordpress و Elementor**
+* **آموزش نرم‌افزار XAMPP**
+
+### ⌨️ پروژه‌ها
+* **پروژه‌های وب‌سایت‌های آموزشی و فروشگاهی [۳ پروژه]**
+   * **لینک‌ها:** 
+     <a href="https://github.com/bestmahdi2/Uni__InternetEngineeringWebSitePHP"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="25" alt="GitHub Repository Link" title="Click for more information"></a>
+
+
+## 📘 درس مبانی داده‌کاوی
+
+### 📚 تدریس
+* **مباحث اولیه داده‌کاوی**
+
+### ⌨️ پروژه‌ها
+* **پروژه داده‌کاوی وب‌سایت StackOverflow**
+   * **لینک‌ها:** 
+     <a href="https://github.com/bestmahdi2/Uni__DataMinningStackOverFlowProject"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="25" alt="GitHub Repository Link" title="Click for more information"></a>
+
+
+## 💎 پروژه‌های خارج از دانشگاه
+* **پروژه مهندسی اینترنت برنامه‌نویسی سوکت**
+   * **لینک‌ها:** 
+     <a href="https://github.com/bestmahdi2/Uni__SocketProgrammingInternetEngineering"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="25" alt="GitHub Repository Link" title="Click for more information"></a>
+* **پروژه نهان‌نگاری**
+   * **لینک‌ها:** 
+     <a href="https://github.com/bestmahdi2/Uni__SteganographyImageProject"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="25" alt="GitHub Repository Link" title="Click for more information"></a>
+* **پروژه ربات تلگرام: پست‌گذار**
+   * **لینک‌ها:** 
+     <a href="https://github.com/bestmahdi2/TB__ChannelPosting"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="25" alt="GitHub Repository Link" title="Click for more information"></a>
+* **پروژه‌های کارشناسی و داکیومنت رشته‌های مهندسی مواد و متالورژی، مهندسی کامپیوتر، مهندسی عمران و روانشناسی**
 
 
 
@@ -246,5 +347,8 @@ todo
 
 
 
+
+
+     
      
 </div>
