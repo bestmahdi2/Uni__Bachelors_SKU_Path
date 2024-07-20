@@ -293,7 +293,7 @@ todo
 * **پروژه دریافت نام رنگ و نمایش آن روی RGB**
 
 
-## 📘 درس هوش مصنوعی
+## 📒 درس هوش مصنوعی
 
 ### 📚 تدریس
 * **مباحث هوش مصنوعی و الگوریتم‌ها**
@@ -304,7 +304,7 @@ todo
      <a href="https://github.com/bestmahdi2/Uni__TicTacToeMinimaxAlgorithm"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="25" alt="GitHub Repository Link" title="Click for more information"></a>
 
 
-## 📘 درس مهندسی اینترنت
+## 📔 درس مهندسی اینترنت
 
 ### 📚 تدریس
 * **مباحث کلی اینترنت**
@@ -318,7 +318,7 @@ todo
      <a href="https://github.com/bestmahdi2/Uni__InternetEngineeringWebSitePHP"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="25" alt="GitHub Repository Link" title="Click for more information"></a>
 
 
-## 📘 درس مبانی داده‌کاوی
+## 📓 درس مبانی داده‌کاوی
 
 ### 📚 تدریس
 * **مباحث اولیه داده‌کاوی**
@@ -343,6 +343,49 @@ todo
 
 
 
+
+# ترم 8️⃣
+
+## 📓 درس سینگال‌ها و سیتم‌ها
+
+### 📚 تدریس
+* **مباحث سیگنال‌ها و سیستم‌ها**
+
+### ⌨️ پروژه‌ها
+* **پروژه داون سمپلینگ سیگنال سیستم**
+   * **لینک‌ها:** 
+     <a href="https://github.com/bestmahdi2/Uni__DownSamplingSignalSystemProject"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="25" alt="GitHub Repository Link" title="Click for more information"></a>
+
+## 📓 درس مبانی بازیابی اطلاعات
+
+### 📚 تدریس
+* **مباحث سیگنال‌ها و سیستم‌ها**
+
+### ⌨️ پروژه‌ها
+* **پروژه موتور جستجو بازیابی اطلاعات**
+   * **لینک‌ها:** 
+     <a href="https://github.com/bestmahdi2/Uni__SearchEngineInformationRetrievalProject"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="25" alt="GitHub Repository Link" title="Click for more information"></a>
+
+
+## 📓 درس پروژه کارشناسی
+
+### ⌨️ پروژه‌ها
+* **پروژه وب‌سایت فروشگاهی آنلاین با قابلیت نمایش 3D کالا‌‌ها**
+   * **لینک‌ها:** 
+     <a href="https://github.com/bestmahdi2/WS__ShonLine_online_shop"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="25" alt="GitHub Repository Link" title="Click for more information"></a>
+
+
+
+## 💎 پروژه‌های خارج از دانشگاه
+* **پروژه سیستم مدیریت املاک با Qt**
+   * **لینک‌ها:** 
+     <a href="https://github.com/bestmahdi2/Uni__RealEstateManagementSystemQT"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="25" alt="GitHub Repository Link" title="Click for more information"></a>
+* **پروژه ربات تلگرام: هسته ربات**
+   * **لینک‌ها:** 
+     <a href="https://github.com/bestmahdi2/TB__Core"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="25" alt="GitHub Repository Link" title="Click for more information"></a>
+* **پروژه تقسیم درآمدهای کانال‌های تلگرام**
+   * **لینک‌ها:** 
+     <a href="https://github.com/bestmahdi2/Yotta_Moghasem"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="25" alt="GitHub Repository Link" title="Click for more information"></a>
 
 
 
