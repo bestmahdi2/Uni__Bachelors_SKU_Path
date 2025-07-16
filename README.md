@@ -409,7 +409,7 @@
 
 ---
     
-##General Information
+## General Information
 
 **Number of Projects:**
 [![GitHub](https://img.shields.io/badge/Projects-200%2B-blue)]()
@@ -420,7 +420,7 @@
 **Lines of Code:**
 [![GitHub](https://img.shields.io/badge/Lines%20Of%20Code-400000%2B-blue)]()
 
-##To-Do List
+## To-Do List
 - [x] ![](https://geps.dev/progress/100) **Bachelor's Degree**
 - [x] ![](https://geps.dev/progress/100) **Review and Collect Projects**
 - [x] ![](https://geps.dev/progress/100) **Categorize and Version Control Projects**
@@ -428,7 +428,7 @@
 - [ ] ![](https://geps.dev/progress/50) **Document Projects**
 - [ ] ![](https://geps.dev/progress/20) **Review and Improve Projects**
 
-##Notes
+## Notes
 * **Some project repositories may be archived or deleted.**
 * **Some project repositories may have been changed from public to private.**
 * **The files for some projects are not on GitHub.**
